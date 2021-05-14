@@ -9,6 +9,6 @@ Estrutura:
   - Página de CADASTRO: o responsável pelos cadastros dos funcionários da empresa( abre um formulário simples que solicita  informações do funcionário como, nome...
  
   - Página para LISTAR funcionários: permite editar os cadastro, remover e gerar um qr code com algumas informçãoes do funcionário(técnico) em campo.
-    -editar cadastro: dentre as informações já salvas, a pessoa pode alterar qualquer dado ja cadastrado.
+    - editar cadastro: dentre as informações já salvas, a pessoa pode alterar qualquer dado ja cadastrado.
     - deletar cadastro: o cadastro pode ser deleto como um todo, eliminando todas as informções salvas do funcionário
-    -  gerar qr code: um codigo é gerado e através de uma camera conectada a internet, é possível acessar os dados técnicos do funcionário no banco de dados.
+    - gerar qr code: um codigo é gerado e através de uma camera conectada a internet, é possível acessar os dados técnicos do funcionário no banco de dados.
